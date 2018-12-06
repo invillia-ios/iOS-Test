@@ -5,8 +5,11 @@ Crie um app iOS que liste os próximos filmes que serão lançados, com poster, 
 * Você deve utilizar um botão na NavigationBar na tela inicial, assim você deverá trocar a forma que os filmes são listados entre lista de uma linha e grid de dois itens por linha.
 * Faça as requests assincronas.
 * Experiência de usuário e design são diferencias, não mandatórios.
-* Arquitetura: MVVM.
+* Arquitetura: use pelo menos uma camada a mais de MVC (eg. MVVM)
 * Use design patterns.
+
+### Entrega
+* O candidato deve dar fork neste repositório e após o termino do desenvolvimento, realizar um pull request e avisar por email para análise do time.
 
 ### Dicas
 * Você pode usar a API do IMDB (http://www.omdbapi.com) para pegar os dados dos filmes.
